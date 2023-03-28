@@ -1,0 +1,3 @@
+<launch>
+<node name="neuraldetect" pkg="neuraldetect" type="detectRos.py" args="config/best.pt"/>
+</launch>
